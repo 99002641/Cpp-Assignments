@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1600664550 source:c:\users\test\desktop\assignment_s1_s2\set1\box\main.cpp
+	<iostream>
+	"box.h"
+
+1600664441 c:\users\test\desktop\assignment_s1_s2\set1\box\box.h
+
+1600664441 source:c:\users\test\desktop\assignment_s1_s2\set1\box\box_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"box.h"
+
+1600909910 source:c:\users\training\downloads\cpp__assignments-master\cpp__assignments-master\set1\box\main.cpp
+	<iostream>
+	"box.h"
+
+1600909886 c:\users\training\downloads\cpp__assignments-master\cpp__assignments-master\set1\box\box.h
+
+1600909708 source:c:\users\training\downloads\cpp__assignments-master\cpp__assignments-master\set1\box\box_test.cpp
+	<iostream>
+	<gtest/gtest.h>
+	"box.h"
+
