@@ -20,4 +20,4 @@ jobs:
       run: make all -C set1/
       run: make all -C set2/
       run: make all -C set3/SET3/
-      run: make all -C set4
+      run: make all -C set4/
